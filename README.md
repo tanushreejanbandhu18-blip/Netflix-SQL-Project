@@ -53,22 +53,19 @@ The objective is to demonstrate strong SQL fundamentals along with advanced anal
 
 ##  Sample Query Outputs
 
-### Movies vs TV Shows
-![Movies vs TV Shows](images/movies_vs_tv.png)
+### Movies vs TV Show 
 
-### Top Countries by Contribution
-![Top Countries](images/top_countries.png)
+### Top Countries by Contribution 
+<img width="1920" height="1020" alt="Screenshot 2026-03-23 163144" src="https://github.com/user-attachments/assets/0df8143c-edce-4583-b2ba-faaa6c8f7187" />
 
 ### Content Growth Over Years
-![Growth Trend](images/growth_trend.png)
 
 ### Growth Rate Analysis (Window Function)
-![Growth Rate](images/growth_rate.png)
 
 ### Audience Segmentation
-![Audience Segmentation](images/audience_segmentation.png)
 
----
+
+
 
 ## Key Insights
 
