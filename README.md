@@ -116,5 +116,4 @@ Netflix-SQL-Project/
 
 This project demonstrates how SQL can be effectively used for real-world data analysis by transforming raw data into actionable insights using structured and advanced querying techniques.
 
- Author
-- Tanushree  Janbandhu.
+
